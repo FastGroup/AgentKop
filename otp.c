@@ -1,7 +1,7 @@
 void main() 
 {
   printf("HTTP Insert");
-  NEW1
+  NEW2
   change by TEST1
   change by TEST2
 }
